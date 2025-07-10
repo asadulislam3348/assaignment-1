@@ -1,0 +1,96 @@
+
+
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+}
+
+
+
+.nav-style{
+display:flex ;
+justify-content: space-between;
+margin: 50px 150px;
+
+}
+.logo{
+color: rgba(78, 71, 255, 1);
+font-weight: 34px;
+
+
+}
+.btn-primary{
+background-color: #4E47FF;
+border-radius: 5px;
+height: 48px;
+width:120px ;
+color: aliceblue;
+
+
+} 
+
+
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f5f6fc;
+  text-align: center;
+}
+
+
+.section-1{
+background-image: url('./Hero-bg.png');
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 50px;
+  
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  color: #4e47ff;
+}
+
+.signup-btn,.focus-btn {
+  background-color: #4e47ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+ align-items: center;
+}
+
+/* Main Content */
+main {
+  margin-top: 80px;
+}
+
+main h1 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #222;
+ text-align: center;
+}
+
+
