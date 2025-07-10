@@ -129,10 +129,26 @@ margin:200px;
 }
 .flex{
 display: flex;
-/* align-items: center; */
 
 }
 
+/* section-4 */
+
+.section-4{
+display: flex;
+gap: 115px;
+text-align: center;
+margin-left: 200px;
+}
+
+.header-4{
+font-size: 97px;
+font-weight: bold;
+
+}
+.box{
 
 
+
+}
 
