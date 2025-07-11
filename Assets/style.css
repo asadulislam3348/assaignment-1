@@ -57,6 +57,7 @@ body {
 
 .section-1{
 background-image: url('./Hero-bg.png');
+text-align: center;
 }
 
 /* Header */
@@ -81,7 +82,9 @@ header {
   border: none;
   border-radius: 8px;
   font-weight: 500;
-text-align: center;
+/* text-align: center; */
+align-items: center;
+margin-top: 20px;
 }
 
 /* Main Content */
@@ -103,6 +106,7 @@ main h1 {
 
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 20px;
     margin: 100px;
     height: 328px;
@@ -122,7 +126,7 @@ background-color: rgba(78, 71, 255, 0.1);
 padding: 50px 80px;
 align-items: center;
 margin:200px;
-
+border-radius: 25px;
 
 }
 .card{
@@ -180,6 +184,7 @@ margin: 50px;
 display: flex;
 gap: 48px;
 margin-left: 500px;
+padding-bottom: 50px;
 
 }
 .card-1{
@@ -188,6 +193,7 @@ width: 250px;
 height: 200px;
 padding: 24px;
 border-radius: 14px;
+margin-bottom: 50px;
 
 }
 .card-continer{
@@ -198,5 +204,9 @@ border-radius: 14px;
 .asad{
   text-align: center;
   padding-bottom: 50px;
+}
+.box{
+  
+  
 }
   
