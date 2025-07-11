@@ -1,5 +1,8 @@
 
-
+*{
+  margin: 0px;
+  padding: 0px;
+}
 
 .raleway-normal {
   font-family: "Raleway", sans-serif;
@@ -179,10 +182,21 @@ gap: 48px;
 margin-left: 500px;
 
 }
-.card{
-  border: 5px solid red;
- /* height: 124px; */
- padding: 45px;
- /* height: 50px;
- width: 50px; */
+.card-1{
+background-color: rgb(169, 187, 203);
+width: 250px;
+height: 200px;
+padding: 24px;
+border-radius: 14px;
+
 }
+.card-continer{
+  display: flex;
+  gap:25px;
+ justify-content: center;
+}
+.asad{
+  text-align: center;
+  padding-bottom: 50px;
+}
+  
