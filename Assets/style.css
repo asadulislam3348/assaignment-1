@@ -105,7 +105,7 @@ main h1 {
     height: 328px;
 }
 .section-2 p{
-  color: rgba(50, 36, 50, 0.5);  
+  
 }
 .section-2 img{
     border-radius: 48px;
@@ -146,9 +146,36 @@ font-size: 97px;
 font-weight: bold;
 
 }
-.box{
 
 
+/* section-5 */
+
+.section-5{
+ background-color: white;
+text-align: center;
 
 }
+.section-5 h1{
+color:#4E47FF ;
+font-size: 100px;padding-top: 100px;
+margin: 50px;
 
+}
+.section-5 p{
+  color: rgba(50, 36, 50, 0.5); 
+  
+}
+.section-5 ul li {
+  list-style: none;
+  
+}
+.section-5 ul a{
+  text-decoration: none;
+  font-size: 16px;
+}
+.ancor{
+display: flex;
+gap: 48px;
+margin-left: 500px;
+
+}
