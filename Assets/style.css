@@ -51,7 +51,7 @@ body {
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
   background: #f5f6fc;
-  /* text-align: center; */
+
 }
 
 
@@ -111,9 +111,7 @@ main h1 {
     margin: 100px;
     height: 328px;
 }
-.section-2 p{
-  
-}
+
 .section-2 img{
     border-radius: 48px;
 }
@@ -205,8 +203,5 @@ margin-bottom: 50px;
   text-align: center;
   padding-bottom: 50px;
 }
-.box{
-  
-  
-}
+
   
