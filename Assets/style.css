@@ -179,3 +179,10 @@ gap: 48px;
 margin-left: 500px;
 
 }
+.card{
+  border: 5px solid red;
+ /* height: 124px; */
+ padding: 45px;
+ /* height: 50px;
+ width: 50px; */
+}
